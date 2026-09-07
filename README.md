@@ -1,4 +1,5 @@
 # Genetic Cross Calculator
+   **Live app:** https://genetic-crosscalculator-ccqmhtmyvhvvzzdbeendek.streamlit.app
 
 A Streamlit app that calculates and visualizes Mendelian genetic cross outcomes for any two parents, 
 across any number of traits.
